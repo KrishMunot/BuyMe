@@ -1,15 +1,5 @@
-<<<<<<< HEAD
 <application>
   <component name="KeymapManager">
     <active_keymap name="$default" />
   </component>
 </application>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<application>
-  <component name="KeymapManager">
-    <active_keymap name="$default" />
-  </component>
-</application>
-
->>>>>>> parent of 2d19916... Revert "AI-2.3.2 <Lenovo@Krishovo Create IntelliLang.xml, ide.general.xml, git.xml, project.default.xml, diff.xml, other.xml, androidStudioFirstRun.xml, file.template.settings.xml, ui.lnf.xml, filetypes.xml, keymap.xml, androidEditors.xml, gradle.run.settings.xml, plugin_ui.xml, colors.scheme.xml, notifications.xml, github_settings.xml, abbreviations.xml, Default.xml, laf.xml, jdk.table.xml, debugger.renderers.xml, path.macros.xml, web-browsers.xml, proxy.settings.xml, editor.codeinsight.xml, editor.xml, debugger.xml"
